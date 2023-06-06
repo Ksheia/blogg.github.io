@@ -1,0 +1,14 @@
+
+    #head{text-align:center;background:#ceebe0}
+    #foot{text-align:center;background:#ceebe0}
+    body{background:#cbf7e9}
+    body{color:#98a158}
+    li{color:#8a7a28}
+    table{background:#b0ebd8}
+    table{color:#5a786e}
+    #left {float:left;background:#d9edc0;width:20%}
+    #content{margin-left:26%;margin-right:26%}
+    #right{float:right;width:20%;background:#d9edc0}
+    h2{background:#d5d9a0;color:#2a6b56}
+    #form1{color:#c9aa0a}
+    .content{width:225px;padding:10px;border:2px dashed #72875c;margin-top:10px;margin-bottom:10px}
